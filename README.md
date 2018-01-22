@@ -1,2 +1,2 @@
-# conjugate-gradient-parallel-on-CPUs-and-GPUs
-conjugate gradient parallel on CPUs and GPUs using CUDA and MPI
+# conjugate-gradient-paralleled-on-CPUs-and-GPUs
+conjugate gradient paralleled on CPUs and GPUs using CUDA and MPI
